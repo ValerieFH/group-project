@@ -40,3 +40,8 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+.val-style {
+    color: rgb(119, 5, 5);
+    background-color: black;
+    padding: 10px;
+}
